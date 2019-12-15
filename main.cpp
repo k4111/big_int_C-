@@ -21,7 +21,11 @@ int main()
     long double a2 = 1;
     long double a3;
     int t =2;
+<<<<<<< HEAD
 while(t!=100000)
+=======
+while(t!=10000)
+>>>>>>> 4c9167002116062396e04034ea0c9c5ce18889e1
     {   a3 = a1+a2;
         a2 = a3;
         a1 = a2;
